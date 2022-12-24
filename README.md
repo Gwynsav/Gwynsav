@@ -1,4 +1,2 @@
-I make scuffed rices.
-I also listen to people screaming in my free time.
-I also make people scream in my free time.
-This is because I like Metal and Gaming.
+### I have no idea by what misfortune you ended up here.
+I make rices, lack any real coding skills and am very lazy. Feel free to check my dumpster-firish projects, *if you dare*.
