@@ -2,10 +2,9 @@
 I'm a Computer Science student living abroad (hopefully permanently) and just trying to get by.
 
 This is my personal account where I post abhorrent creations that should never be anywhere near my real
-name. Said creations consist of projects like Linux rices using _"soon to be deprecated"_ (average 
-Waylander copium) X software like AwesomeWM.
+name, like Linux rices using _"soon to be deprecated"_ (average Waylander copium) X software like AwesomeWM.
 
-I hope reading my code is enough to traumatize you and permanently prevent you from using anywhere here,
+I hope reading my code is enough to traumatize you and permanently prevent you from using anything here,
 which I strongly advise against doing.
 
 ## So what do you actually know?
